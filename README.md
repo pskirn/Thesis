@@ -31,7 +31,7 @@ This repository contains a collection of my academic thesis work across Bachelor
 
 ---
 
-### 🤖 Aalto Thesis
+### 🤖 Master's Thesis (Autonomous Systems & Robotics)
 
 **Robot Localization Using Sensor Fusion**
 
